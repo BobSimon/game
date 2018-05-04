@@ -1,10 +1,10 @@
 # 项目结构
 ```java
 ├── bricks  ## 俄罗斯方块
-├── myeclipseKey ##获取myeclipse秘钥的类
-├── planeGame ## 雷霆战机游戏
-├── trafficLamp ## 模仿交通灯
-├── ballSports ## 圆球撞击运动
+├── myeclipsekey ##获取myeclipse秘钥的类
+├── planegame ## 雷霆战机游戏
+├── trafficlamp ## 模仿交通灯
+├── ballsports ## 圆球撞击运动
 ├── QrCodeUtil ##  二维码的实现，这个这里没给jar包，自己自行去搜索
 ```
 

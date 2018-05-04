@@ -149,8 +149,10 @@ public class GameCanvas extends JPanel {
 	 */
 	public ErsBox getBox(int row, int col) {
 		if (row < 0 || row > boxes.length - 1 || col < 0
-				|| col > boxes[0].length - 1)
+				|| col > boxes[0].length - 1){
 			return null;
+		}
+
 		return (boxes[row][col]);
 	}
 
@@ -161,7 +163,8 @@ public class GameCanvas extends JPanel {
 	 *            图形设备环境
 	 */
 	@Override
-	public void paintComponent(Graphics g) {
+	public void paintComponent(Graphics g){
+
 		super.paintComponent(g);
 
 		g.setColor(frontColor);
@@ -206,11 +209,13 @@ public class GameCanvas extends JPanel {
 	public void reset() {
 		score = 0;
 		scoreForLevelUpdate = 0;
+
 		for (int i = 0; i < boxes.length; i++) {
 			for (int j = 0; j < boxes[i].length; j++){
                 boxes[i][j].setColor(false);
             }
 		}
+
 		repaint();
 	}
 

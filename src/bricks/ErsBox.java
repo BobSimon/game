@@ -7,8 +7,10 @@ import java.awt.*;
  * @Description: 方格类，是组成块的基本元素，用自己的颜色来表示块的外观
  * @Date: Created in 15:54 2018\5\3
  */
-public class ErsBox implements Cloneable {
+public class ErsBox implements Cloneable{
+
 	private boolean isColor;
+
 	private Dimension size = new Dimension();
 
 	/**
