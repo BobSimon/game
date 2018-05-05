@@ -5,66 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5ba00d6-1ec3-4035-ac0e-81538e1393b3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/eatBean/fish/BigMouthFish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eatBean/fish/FishBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eatBean/fish/FishPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eatBean/main/BigMouthFishFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eatBean/tools/FishUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eatBean/tools/RandomUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edittext/Form.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edittext/JabOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edittext/OpenFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shizhong/ClockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shizhong/m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/BombTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/Bullets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/CommonWall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/GetBlood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/MetalWall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/River.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/TankClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/bulletD.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/bulletL.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/bulletLD.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/bulletLU.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/bulletR.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/bulletRD.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/bulletRU.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/bulletU.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/commonWall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/home.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/hp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/metalWall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/river.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/screen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/tankD.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/tankL.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/tankLD.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/tankLU.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/tankR.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/tankRD.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/tankRU.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/tankU.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankwar/images/tree.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/airplane.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/QrCodeUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/QrCodeUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/ballSports/Ball.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/ballSports/Ball.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/ballSports/BallThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/ballSports/BallThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/ballSports/FirstBall$addListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/ballSports/FirstBall$addListener.class" afterDir="false" />
@@ -79,60 +22,54 @@
       <change beforePath="$PROJECT_DIR$/out/production/game/ballSports/FirstBall$setMaxListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/ballSports/FirstBall$setMaxListener.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/ballSports/FirstBall$stopListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/ballSports/FirstBall$stopListener.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/ballSports/FirstBall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/ballSports/FirstBall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/ballSports/MusicThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/ballSports/MusicThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/ballSports/MyCanvas$SixthListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/ballSports/MyCanvas$SixthListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/ballSports/MyCanvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/ballSports/MyCanvas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/myeclipseKey/Key.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/myeclipseKey/Key.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ControlPanel$ControlKeyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ControlPanel$ControlKeyListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ControlPanel$TipPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ControlPanel$TipPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ControlPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ControlPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame$Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBlocksGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/ErsBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/ErsBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/bricks/GameCanvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/bricks/GameCanvas.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/planeGame/Airplane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/planeGame/Airplane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/planeGame/Award.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/planeGame/Award.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/planeGame/Bee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/planeGame/Bee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/planeGame/Bullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/planeGame/Bullet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/planeGame/Enemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/planeGame/Enemy.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/planeGame/FlyingObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/planeGame/FlyingObject.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/planeGame/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/planeGame/Hero.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/planeGame/ShootGame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/planeGame/ShootGame$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/planeGame/ShootGame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/planeGame/ShootGame$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/planeGame/ShootGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/planeGame/ShootGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/trafficLamp/Lamp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/trafficLamp/Lamp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/trafficLamp/LampController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/trafficLamp/LampController$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/trafficLamp/LampController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/trafficLamp/LampController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/trafficLamp/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/trafficLamp/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/trafficLamp/Road$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/trafficLamp/Road$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/trafficLamp/Road$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/trafficLamp/Road$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/trafficLamp/Road.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/trafficLamp/Road.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ballSports/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ballsports/Ball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ballSports/BallThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ballsports/BallThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ballSports/FirstBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ballsports/FirstBall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ballSports/MusicThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ballsports/MusicThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ballSports/MyCanvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ballsports/MyCanvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bricks/ControlPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bricks/ControlPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bricks/ErsBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bricks/ErsBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bricks/ErsBlocksGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bricks/ErsBlocksGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bricks/ErsBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bricks/ErsBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bricks/GameCanvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bricks/GameCanvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myeclipseKey/Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myeclipsekey/Key.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/Award.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/Award.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/Bee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/Bee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/Bullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/Enemy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/FlyingObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/FlyingObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/ShootGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/ShootGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/airplane.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/airplane.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/bee.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/bee.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/bullet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/gameover.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/gameover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/hero0.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/hero0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/hero1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/hero1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/pause.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/pause.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/start.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/start.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planeGame/start1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/planegame/start1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trafficLamp/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trafficlamp/Lamp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trafficLamp/LampController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trafficlamp/LampController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trafficLamp/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trafficlamp/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trafficLamp/Road.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trafficlamp/Road.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/BombTank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/BombTank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/Bullets$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/Bullets$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/Bullets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/Bullets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/CommonWall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/CommonWall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/GetBlood.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/GetBlood.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/Home.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/MetalWall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/MetalWall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/River.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/River.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/Tank$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/Tank$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/Tank$DrawBloodbBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/Tank$DrawBloodbBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/Tank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/Tank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/TankClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/TankClient$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/TankClient$KeyMonitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/TankClient$KeyMonitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/TankClient$PaintThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/TankClient$PaintThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/TankClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/TankClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/tankWar/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/tankWar/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QrCodeUtil.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -155,133 +92,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FlyingObject.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/planegame/FlyingObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-              <folding>
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#594#595#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TankClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tankwar/TankClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5344">
-              <caret line="232" column="25" selection-start-line="232" selection-start-column="25" selection-end-line="232" selection-end-column="25" />
-              <folding>
-                <element signature="e#1139#1146#0" expanded="true" />
-                <element signature="e#1183#1189#0" expanded="true" />
-                <element signature="e#1234#1244#0" expanded="true" />
-                <element signature="e#1286#1295#0" expanded="true" />
-                <element signature="e#1332#1338#0" expanded="true" />
-                <element signature="e#1384#1396#0" expanded="true" />
-                <element signature="e#1454#1466#0" expanded="true" />
-                <element signature="e#1512#1523#0" expanded="true" />
-                <element signature="e#11754#11909#0" expanded="true" />
-                <element signature="e#11908#11909#0" expanded="true" />
-                <element signature="e#10228#10229#0" expanded="true" />
-                <element signature="e#10270#10271#0" expanded="true" />
-                <element signature="e#10310#10311#0" expanded="true" />
-                <element signature="e#10351#10352#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tankwar/Tree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#747#748#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hero.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/planegame/Hero.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-492">
-              <caret line="161" column="29" selection-start-line="161" selection-start-column="29" selection-end-line="161" selection-end-column="29" />
-              <folding>
-                <element signature="e#1976#1977#0" expanded="true" />
-                <element signature="e#1997#1998#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Airplane.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/planegame/Airplane.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Award.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/planegame/Award.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/planegame/Bee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-              <folding>
-                <element signature="e#855#856#0" expanded="true" />
-                <element signature="e#887#888#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bullet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/planegame/Bullet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding>
-                <element signature="e#561#562#0" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShootGame.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ShootGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/planegame/ShootGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="336" column="30" selection-start-line="336" selection-start-column="30" selection-end-line="336" selection-end-column="30" />
-              <folding>
-                <element signature="e#2786#2787#0" expanded="true" />
-                <element signature="e#2853#2854#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-60">
+              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Enemy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/planegame/Enemy.java">
+      <file leaf-file-name="game.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+            <state relative-caret-position="540">
+              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="19" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="570">
+                <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -317,7 +162,6 @@
         <option value="$PROJECT_DIR$/src/planeGame/FlyingObject.java" />
         <option value="$PROJECT_DIR$/src/ballSports/Ball.java" />
         <option value="$PROJECT_DIR$/src/QrCodeUtil.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/edittext/Jabout.java" />
         <option value="$PROJECT_DIR$/src/ballSports/BallThread.java" />
         <option value="$PROJECT_DIR$/src/ballsports/MyCanvas.java" />
@@ -361,6 +205,7 @@
         <option value="$PROJECT_DIR$/src/planegame/FlyingObject.java" />
         <option value="$PROJECT_DIR$/src/planegame/Hero.java" />
         <option value="$PROJECT_DIR$/src/planegame/ShootGame.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -373,7 +218,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1400" />
@@ -401,8 +246,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -413,13 +258,12 @@
             <path>
               <item name="game" type="b2602c69:ProjectViewProjectNode" />
               <item name="game" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="game" type="b2602c69:ProjectViewProjectNode" />
               <item name="game" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="planegame" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="game" type="b2602c69:ProjectViewProjectNode" />
@@ -439,13 +283,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\game\src" />
       <recent name="F:\game\doc" />
       <recent name="F:\game" />
+      <recent name="F:\game\src" />
       <recent name="F:\ideaworkspace\src\planeGame" />
       <recent name="F:\ideaworkspace\src" />
     </key>
@@ -462,22 +306,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClockDemo">
+  <component name="RunManager" selected="Application.ShootGame">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="BigMouthFishFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eatBean.main.BigMouthFishFrame" />
-      <module name="game" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
     <configuration name="ClockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="shizhong.ClockDemo" />
-      <module name="game" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="ErsBlocksGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bricks.ErsBlocksGame" />
       <module name="game" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -486,8 +320,18 @@
       <module name="game" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Key" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myeclipsekey.Key" />
+    <configuration name="GameEdit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.game.eidt.GameEdit" />
+      <module name="game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ShootGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="planegame.ShootGame" />
+      <module name="game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TankClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tankwar.TankClient" />
       <module name="game" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -530,19 +374,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.ErsBlocksGame" />
       <item itemvalue="Application.Form" />
-      <item itemvalue="Application.BigMouthFishFrame" />
-      <item itemvalue="Application.Key" />
       <item itemvalue="Application.ClockDemo" />
+      <item itemvalue="Application.TankClient" />
+      <item itemvalue="Application.GameEdit" />
+      <item itemvalue="Application.ShootGame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShootGame" />
+        <item itemvalue="Application.TankClient" />
+        <item itemvalue="Application.GameEdit" />
         <item itemvalue="Application.ClockDemo" />
         <item itemvalue="Application.Form" />
-        <item itemvalue="Application.Key" />
-        <item itemvalue="Application.BigMouthFishFrame" />
-        <item itemvalue="Application.ErsBlocksGame" />
       </list>
     </recent_temporary>
   </component>
@@ -583,22 +427,22 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4978678" visible="true" weight="0.07625272" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4978678" weight="0.41503268" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.32569295" side_tool="true" weight="0.26384366" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.67430705" weight="0.05664488" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.20261438" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.67430705" weight="0.09477124" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.05882353" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19616205" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20042644" />
       <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.10501066" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Tail" order="11" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24969988" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -613,23 +457,23 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Tail" order="11" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24969988" />
-      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.32995737" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.67430705" weight="0.2649294" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22014925" />
       <window_info id="Structure" order="1" weight="0.10501066" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.67430705" weight="0.2649294" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.32569295" side_tool="true" visible="true" weight="0.26384366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.32569295" side_tool="true" visible="true" weight="0.26384366" />
       <window_info anchor="bottom" id="Database Console" order="12" sideWeight="0.88539445" visible="true" weight="0.10314875" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4978678" weight="0.32899022" />
@@ -649,261 +493,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sys/src/main/java/com/len/sys/SysApplication.java" />
-    <entry file="file://$PROJECT_DIR$/game.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/QrCodeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="e#0#1378#0" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1376#1377#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trafficlamp/Road.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tankwar/images/bulletD.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edittext/Form.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2700">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myeclipsekey/Key.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2609#2610#0" expanded="true" />
-            <element signature="e#2632#2633#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planegame/airplane.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tankwar/images/bulletRD.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eatBean/main/BigMouthFishFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1694">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="28" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2655#2656#0" expanded="true" />
-            <element signature="e#2685#2686#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shizhong/m.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shizhong/ClockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6270">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="35" />
-          <folding>
-            <element signature="e#1668#1669#0" expanded="true" />
-            <element signature="e#1687#1688#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edittext/JabOut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edittext/OpenFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eatBean/fish/BigMouthFish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-668">
-          <caret line="209" lean-forward="true" selection-start-line="209" selection-end-line="209" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eatBean/fish/FishBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2940">
-          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-          <folding>
-            <element signature="e#2958#2959#0" expanded="true" />
-            <element signature="e#2998#2999#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eatBean/fish/FishPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7304">
-          <caret line="368" column="30" lean-forward="true" selection-start-line="368" selection-start-column="30" selection-end-line="368" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#7944#7945#0" expanded="true" />
-            <element signature="e#7962#7963#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eatBean/tools/FishUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eatBean/tools/RandomUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-652">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bricks/ControlPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7734">
-          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bricks/ErsBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3090">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bricks/ErsBlocksGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14574">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#11360#11361#0" expanded="true" />
-            <element signature="e#11423#11424#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bricks/ErsBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1252">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#929#930#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bricks/GameCanvas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4140">
-          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2456#2457#0" expanded="true" />
-            <element signature="e#2515#2516#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ballsports/Ball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2250">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3460#3461#0" expanded="true" />
-            <element signature="e#3484#3485#0" expanded="true" />
-            <element signature="e#3564#3565#0" expanded="true" />
-            <element signature="e#3593#3594#0" expanded="true" />
-            <element signature="e#3618#3619#0" expanded="true" />
-            <element signature="e#3647#3648#0" expanded="true" />
-            <element signature="e#3727#3728#0" expanded="true" />
-            <element signature="e#3757#3758#0" expanded="true" />
-            <element signature="e#3787#3788#0" expanded="true" />
-            <element signature="e#3839#3840#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ballsports/BallThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#985#986#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1052#1053#0" expanded="true" />
-            <element signature="e#1084#1085#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -911,26 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1476">
           <caret line="493" column="10" selection-start-line="493" selection-start-column="10" selection-end-line="493" selection-end-column="10" />
-          <folding>
-            <element signature="e#7513#7514#0" expanded="true" />
-            <element signature="e#7555#7556#0" expanded="true" />
-            <element signature="e#7970#7971#0" expanded="true" />
-            <element signature="e#8004#8005#0" expanded="true" />
-            <element signature="e#8109#8110#0" expanded="true" />
-            <element signature="e#8152#8153#0" expanded="true" />
-            <element signature="e#8356#8357#0" expanded="true" />
-            <element signature="e#8390#8391#0" expanded="true" />
-            <element signature="e#8462#8463#0" expanded="true" />
-            <element signature="e#8505#8506#0" expanded="true" />
-            <element signature="e#8700#8701#0" expanded="true" />
-            <element signature="e#8746#8747#0" expanded="true" />
-            <element signature="e#9159#9160#0" expanded="true" />
-            <element signature="e#9193#9194#0" expanded="true" />
-            <element signature="e#9285#9286#0" expanded="true" />
-            <element signature="e#9327#9328#0" expanded="true" />
-            <element signature="e#15811#15812#0" expanded="true" />
-            <element signature="e#15849#15850#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -938,9 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -948,13 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1187#1188#0" expanded="true" />
-            <element signature="e#1213#1214#0" expanded="true" />
-            <element signature="e#1255#1256#0" expanded="true" />
-            <element signature="e#1280#1281#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -994,12 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1800">
           <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1059#1060#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,15 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1248#1249#0" expanded="true" />
-            <element signature="e#1305#1306#0" expanded="true" />
-            <element signature="e#1339#1340#0" expanded="true" />
-            <element signature="e#1366#1367#0" expanded="true" />
-            <element signature="e#1497#1498#0" expanded="true" />
-            <element signature="e#1529#1530#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1060,119 +608,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2010">
           <caret line="70" selection-start-line="70" selection-end-line="70" />
-          <folding>
-            <element signature="e#891#892#0" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-            <element signature="e#954#955#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1017#1018#0" expanded="true" />
-            <element signature="e#1045#1046#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-            <element signature="e#1084#1085#0" expanded="true" />
-            <element signature="e#1099#1100#0" expanded="true" />
-            <element signature="e#1127#1128#0" expanded="true" />
-            <element signature="e#1144#1145#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-            <element signature="e#1232#1233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tankwar/Tank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8250">
-          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#7832#7833#0" expanded="true" />
-            <element signature="e#7889#7890#0" expanded="true" />
-            <element signature="e#7920#7921#0" expanded="true" />
-            <element signature="e#7947#7948#0" expanded="true" />
-            <element signature="e#7988#7989#0" expanded="true" />
-            <element signature="e#8020#8021#0" expanded="true" />
-            <element signature="e#8051#8052#0" expanded="true" />
-            <element signature="e#8078#8079#0" expanded="true" />
-            <element signature="e#9725#9726#0" expanded="true" />
-            <element signature="e#9752#9753#0" expanded="true" />
-            <element signature="e#9789#9790#0" expanded="true" />
-            <element signature="e#9821#9822#0" expanded="true" />
-            <element signature="e#7503#7504#0" expanded="true" />
-            <element signature="e#7518#7519#0" expanded="true" />
-            <element signature="e#7540#7541#0" expanded="true" />
-            <element signature="e#7555#7556#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tankwar/TankClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5344">
-          <caret line="232" column="25" selection-start-line="232" selection-start-column="25" selection-end-line="232" selection-end-column="25" />
-          <folding>
-            <element signature="e#1139#1146#0" expanded="true" />
-            <element signature="e#1183#1189#0" expanded="true" />
-            <element signature="e#1234#1244#0" expanded="true" />
-            <element signature="e#1286#1295#0" expanded="true" />
-            <element signature="e#1332#1338#0" expanded="true" />
-            <element signature="e#1384#1396#0" expanded="true" />
-            <element signature="e#1454#1466#0" expanded="true" />
-            <element signature="e#1512#1523#0" expanded="true" />
-            <element signature="e#11754#11909#0" expanded="true" />
-            <element signature="e#11908#11909#0" expanded="true" />
-            <element signature="e#10228#10229#0" expanded="true" />
-            <element signature="e#10270#10271#0" expanded="true" />
-            <element signature="e#10310#10311#0" expanded="true" />
-            <element signature="e#10351#10352#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tankwar/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
+        <state relative-caret-position="1380">
           <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/planegame/Airplane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
+        <state relative-caret-position="1140">
           <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/planegame/Award.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
+        <state relative-caret-position="630">
           <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/planegame/Bee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
+        <state relative-caret-position="1080">
           <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-          <folding>
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/planegame/Bullet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="360">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1180,6 +653,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planegame/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4410">
+          <caret line="161" column="29" selection-start-line="161" selection-start-column="29" selection-end-line="161" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1194,25 +674,176 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planegame/Hero.java">
+    <entry file="file://$PROJECT_DIR$/src/shizhong/ClockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-492">
-          <caret line="161" column="29" selection-start-line="161" selection-start-column="29" selection-end-line="161" selection-end-column="29" />
+        <state relative-caret-position="7380">
+          <caret line="259" selection-start-line="259" selection-end-line="259" />
           <folding>
-            <element signature="e#1976#1977#0" expanded="true" />
-            <element signature="e#1997#1998#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/tankwar1/map/map1.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tankwar/Tank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="273" column="20" selection-start-line="273" selection-start-column="20" selection-end-line="273" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/game/Water.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/game/TankClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="119" column="8" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/game/GameUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/game/MapFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/game/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/game/Direction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/game/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/game/Blink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map/map1.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/game/eidt/GameEdit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/wall.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Tanks_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/symbol.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/steels.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/start.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/levels.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/help.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/grass.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/water.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/walls.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/game/MediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tankwar/TankClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapEdit.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/planegame/ShootGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="336" column="30" selection-start-line="336" selection-start-column="30" selection-end-line="336" selection-end-column="30" />
+        <state relative-caret-position="-60">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QrCodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
-            <element signature="e#2786#2787#0" expanded="true" />
-            <element signature="e#2853#2854#0" expanded="true" />
+            <element signature="e#0#1378#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="570">
+            <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
